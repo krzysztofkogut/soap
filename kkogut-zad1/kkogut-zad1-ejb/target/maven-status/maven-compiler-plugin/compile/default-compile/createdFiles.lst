@@ -1,0 +1,7 @@
+pl/edu/agh/soa/Student.class
+pl/edu/agh/soa/Subject.class
+pl/edu/agh/soa/StudentServiceAuth.class
+pl/edu/agh/soa/StudentService.class
+pl/edu/agh/soa/StudentsList.class
+pl/edu/agh/soa/PojoStudentsList.class
+pl/edu/agh/soa/StudentsList$1.class
